@@ -10,7 +10,7 @@ setup(name='ImageCutter',
       packages=['ImageCutter'],
       install_requires=[
 	'astropy==2.0.2',
-	'numpy==1.13.3',
+	'numpy==1.22.0',
 	'fitsio==0.9.11',
 	'typing==3.6.2'
       ],
