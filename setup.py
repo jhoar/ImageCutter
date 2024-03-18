@@ -9,7 +9,7 @@ setup(name='ImageCutter',
       license='BSD',
       packages=['ImageCutter'],
       install_requires=[
-	'astropy==2.0.2',
+	'astropy==5.3.3',
 	'numpy==1.22.0',
 	'fitsio==0.9.11',
 	'typing==3.6.2'
